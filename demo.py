@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Masamang tao si vince")
+print("luv u vince anferne")
